@@ -1,2 +1,2 @@
 # PAF-Project-3Y2S
-This is the repository for 3Y2S PAF project ('Level up' skill learning platform)
+This is the repository for 'Level up' skill learning platform developed with springboot.
